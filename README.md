@@ -12,6 +12,10 @@ This project demonstrates the successful migration of Virtual Machines (VMs) and
 6. [Conclusion](#conclusion)
 7. [Contact](#contact)
 
+
+   ![AWS Application Migration Service](https://github.com/user-attachments/assets/67e93db6-46f9-4e24-aeeb-e0cbb39f8d53)
+
+
 ---
 
 ## Introduction
