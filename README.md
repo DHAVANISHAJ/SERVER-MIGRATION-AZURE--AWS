@@ -1,4 +1,3 @@
-
 # Azure to AWS Server Migration
 
 Presentation Link
