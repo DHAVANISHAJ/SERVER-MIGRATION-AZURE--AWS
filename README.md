@@ -3,7 +3,7 @@ Cross-cloud VM migration from Azure to AWS using AWS Application Migration Servi
 
 
 Presentation Link
-https://drive.google.com/drive/folders/1QY62HKwsK-bm_K4IJ5ICZOTCWpVLpBzg
+https://drive.google.com/file/d/14yXV34u4sFTxehdSCUKqQ7IhYLgHByCC/view?usp=sharing
 
 This project demonstrates the successful migration of Virtual Machines (VMs) and associated resources from **Microsoft Azure** to **Amazon Web Services (AWS)** using the AWS Application Migration Service. The process ensures minimal downtime, secure data transfer, and data integrity, enabling workloads to benefit from AWS's scalable infrastructure.
 
